@@ -57,6 +57,6 @@
   },
   "dependencies": {
     "koa": "^2.3.0",
-    "koa-router": "^7.2.1"
+    "koa-router": "^9.4.0"
   }
 }
